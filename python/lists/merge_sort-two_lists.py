@@ -1,5 +1,5 @@
 #Merge Two Lists and Sort it
-=[]
+a=[]
 c=[]
 n1=int(input("Enter number of elements:"))
 for i in range(1,n1+1):
